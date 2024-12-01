@@ -1,0 +1,10 @@
+body{
+    overflow-y: hidden;
+}
+img{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
